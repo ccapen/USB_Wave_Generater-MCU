@@ -1,0 +1,13 @@
+*
+!*/
+!.gitignore
+
+!LICENSE
+!README.md
+
+resources/
+
+!Core/**
+!MDK-ARM/USB_Wave_Generater.uvprojx
+!USB_DEVICE/**
+!USB_Wave_Generater.ioc
